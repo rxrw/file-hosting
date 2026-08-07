@@ -1,0 +1,5 @@
+# Zooe internal services reachable through Tailnet
+# Source of truth: Tailnet split DNS
+DOMAIN,git.zooe.app
+DOMAIN,ha.zooe.app
+DOMAIN,registry.zooe.app
