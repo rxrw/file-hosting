@@ -1,5 +1,2 @@
-# Zooe internal services reachable through Tailnet
-# Source of truth: Tailnet split DNS
-DOMAIN,git.zooe.app
-DOMAIN,ha.zooe.app
-DOMAIN,registry.zooe.app
+# Zooe internal namespace; route via home LAN locally and Tailnet while roaming
+DOMAIN-SUFFIX,zooe.app
